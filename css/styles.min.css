@@ -2172,3 +2172,4 @@ ul{list-style-type:disc;padding-left:30px}
 .content .header{min-height:200px;margin-bottom:15px}
 .content .contact-details a{line-height:2em}
 .footer-wrap{min-height:150px;border-top:1px solid #000090;padding:15px 0}
+.image-wrap{background:url(../images/type__1.jpg) no-repeat;background-size:cover;height:100vh;min-height:500px}

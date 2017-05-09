@@ -1,0 +1,10 @@
+version: '3'
+services:
+  app:
+    image: php:5.6-alpine
+    #image: php:7-alpine
+    volumes:
+      - ./:/usr/src/myapp
+    command: php -S 0.0.0.0:8000 -t /usr/src/myapp
+    ports:
+      - '8000:8000'
