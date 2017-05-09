@@ -21,14 +21,13 @@
                 <h1>Spitfireclubvlaanderenvzw</h1>
               </div>
             </div>
-
             <div class="col-md-12">
               <div class="offline-message">
                 <p>Wegens software upgrade van onze hosting is onze site offline, er wordt aan een nieuwe site gebouwd
                   om terug helemaal mee te zijn.</p>
               </div>
               <div class="messages-wrapper">
-
+                <!--                <!-- Hier content als er wat te melden valt -->
               </div>
               <div class="contact-details">
                 <h4>Onze contact gegevens</h4>
@@ -43,7 +42,6 @@
                 </a><br>
                 <a href="tel:+32495548565"><i class="fa fa-phone"></i> 0495548565</a>
               </div>
-
             </div>
           </div>
         </div>
@@ -61,14 +59,9 @@
           </div>
         </footer>
       </div>
-
     </div>
-    <div class="col-md-6 col-sm-4 image-wrap">
-
-    </div>
+    <div class="col-md-6 col-sm-4 image-wrap"></div>
   </div>
-
-
 </section>
 </body>
 </html>
